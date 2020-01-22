@@ -1,0 +1,6 @@
+1 Create class House using class, Window and Door
+
+methods
+	lockTheHouseByKey()
+	printQuantityOfWindows()
+	printQuantityOfDoors()
