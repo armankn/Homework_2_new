@@ -1,0 +1,6 @@
+2 create class Rose using classes  Petal and Bud
+
+	methods
+		bloom()
+		wilt()
+		printQuantityOfPetals

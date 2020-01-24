@@ -1,0 +1,6 @@
+3. create class Tree using classes  Leaf
+
+	methods
+		bloom()
+		makeLeafsYellow()
+		makeLeafsFall()
